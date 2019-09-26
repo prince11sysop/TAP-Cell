@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".About.AboutMainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+  <TextView
+      android:id="@+id/tapIntro"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textSize="13dp"
+      android:layout_margin="8dp"
+      android:text="@string/tap_intro"
+      />
+        <TextView
+            android:layout_width="match_parent"
+            android:textSize="15dp"
+            android:text="Note:"
+            android:textColor="#000"
+            android:layout_marginLeft="8dp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="8dp"
+            android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/projectNote"
+        android:layout_width="match_parent"
+        android:textSize="14dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:textColor="#000"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>

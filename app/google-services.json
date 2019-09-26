@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474985464741",
+    "firebase_url": "https://tap-cell-c23d1.firebaseio.com",
+    "project_id": "tap-cell-c23d1",
+    "storage_bucket": "tap-cell-c23d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474985464741:android:9144898131658103",
+        "android_client_info": {
+          "package_name": "com.nitjamshedpur.tapcell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474985464741-6clhoauunsd87al8limkraf4s27s8rm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitjamshedpur.tapcell",
+            "certificate_hash": "18a26f83db08f69d282547d04c1a6ebe61ea45e0"
+          }
+        },
+        {
+          "client_id": "474985464741-lqm1h0htp9fc824rdvj47d0tr2t2s5jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUFc5DMy6bw2rbNAgEFzfWjQghFLI69U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474985464741-lqm1h0htp9fc824rdvj47d0tr2t2s5jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
